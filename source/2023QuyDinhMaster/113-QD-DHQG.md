@@ -1,6 +1,5 @@
 ---
 tags:
-  - editorials
   - education
   - partial-effect
 ---

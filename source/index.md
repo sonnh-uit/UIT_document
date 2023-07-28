@@ -1,6 +1,5 @@
 ---
 tags:
-  - editorials
   - education
 ---
 
@@ -9,6 +8,12 @@ tags:
 *Last update: 25-07-2023*
 
 <p style="font-size: 40px;"> Ở đây tổng hợp quy định nhiều và dễ hiểu hơn phòng Sau đại học</p>
+
+Trong tổng hợp này, không bao gồm:
+
+  - Các thông báo, hướng dẫn, chương trình... 
+  - Các quy định mà đối tượng thực hiện không phải là sinh viên (ví dụ như quyết định về cố vấn học tập, sửa đề cương môn học...)
+  - Các quyết định đã hết hạn từ trước 2018 hoặc người tổng hợp không có tư liệu
 
 ## Quy chế  do ĐHQG ban hành
 
@@ -25,16 +30,22 @@ tags:
 
 ## Quy chế do trường ĐH Công nghệ Thông tin ban hành
 
-```
-Đang cập nhật
-```
+| STT|  Tên văn bản|  Số hiệu văn bản |  Ngày ban hành |  Khóa áp dụng |  Tình trạng  |
+|---|---|:---:|:---:|:---:|:---:|
+|  1 | [Quy định về học bổng cho học viên sau đại học](2023QuyDinhMaster/620-QD-DHCNTT.md)|  620/QĐ-ĐHCNTT | 01/10/2020 |  Tất cả từ khóa 2020|  Hiệu lực toàn bộ| 
+|  2 | [Quy chế đào tạo thạc sĩ](2023QuyDinhMaster/270-QD-DHCNTT.md)|  270/QĐ-ĐHCNTT | 25/4/2022 |  Tất cả từ khóa 2022|  Hiệu lực toàn bộ| 
+|  3 | [Quy định về  đào tạo liên thông từ đại học lên thạc sĩ](2023QuyDinhMaster/335-QD-DHCNTT.md)|  335/QĐ-ĐHCNTT  | 19/5/2022 |  Tất cả từ khóa 2022|  Hết hiệu lực| 
+|  4 | [Quy định về  đào tạo liên thông từ đại học lên thạc sĩ](2023QuyDinhMaster/407-QD-DHCNTT.md)|  407/QĐ-ĐHCNTT   | 05/05/2023 |  Tất cả từ khóa 2023|  Hiệu lực toàn bộ| 
+|  5 | [Quy định về chính sách hỗ trợ công bố khoa học dành cho sinh viên, học viên cao học và nghiên cứu sinh ](2023QuyDinhMaster/547-QD-DHCNTT.md)|  547/QĐ-ĐHCNTT  | 01/06/2023 |  Tất cả từ khóa 2023|  Hiệu lực toàn bộ| 
+<!-- |  6 | [Quy định về chính sách hỗ trợ công bố khoa học dành cho sinh viên, học viên cao học và nghiên cứu sinh ](2023QuyDinhMaster/547-QD-DHQG.md)|  547/QĐ-ĐHCNTT  | 01/06/2023 |  Tất cả từ khóa 2023|  Hiệu lực toàn bộ|  -->
+
 
 ## Các quy định khác
 
 ```
 Đang cập nhật
 ```
-
+<!-- 
 - 547/QĐ-ĐHCNTT
   - 01/06/2023
   - Thay thế 561/QĐ-ĐHCNTT
@@ -70,4 +81,4 @@ tags:
     - 160/QĐ-ĐHQG
   - Thay thế
     - 77/QĐ-ĐHCNTT-ĐTSĐH
-- 
+-  -->
