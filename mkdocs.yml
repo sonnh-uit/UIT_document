@@ -1,0 +1,75 @@
+site_name: UIT_Document
+docs_dir: source
+nav:
+  - Home: index.md
+  # - Good Read: goodread.md
+  # - Vignettes: vignette.md
+  # - Editorials: editorials.md
+  # - Technicals: technical.md
+  # - About: about.md
+theme:
+  name: material
+  # custom_dir: overrides
+  features:
+    - navigation.footer
+    - navigation.instant
+    - header.autohide
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    # - toc
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      
+plugins:
+  - tags
+      # tags_extra_files:
+      #   - goodread.md:
+      #     - film
+      #     - book
+      #     - goodread
+      #   - editorials.md:
+      #     - political
+      #     - editorials
+      #   - vignette.md:
+      #   - technical.md:
+      #     - technical
+      #     - latex
+      #     - infrastructure
+      #     - monitor-tools
+  - search:
+      lang:
+          - en
+          - vi
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+extra:
+  homepage: https://sonnh-uit.github.io/UIT_document
+  # social:
+  #   - icon: fontawesome/brands/linkedin
+  #     link: https://www.linkedin.com/in/sonnh-uit/
+  #   - icon: fontawesome/brands/facebook
+  #     link: https://www.facebook.com/sonnh.uit/
+  #   - icon: fontawesome/brands/github
+  #     link: https://github.com/sonnh-uit
+  #   - icon: fontawesome/solid/paper-plane
+  #     link: mailto:sonnh.uit@gmail.com
+copyright: Copyright &copy; 2023 - Son Nguyen-Hong
