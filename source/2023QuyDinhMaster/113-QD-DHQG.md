@@ -13,7 +13,7 @@ tags:
 - Kế thừa từ văn bản: Thay thế toàn bộ các văn bản sau:
     - [83/QĐ-ĐHQG](83-QD-DHQG.md) ngày 19/02/2016
     - 1221/QĐ-ĐHQG ngày 11/11/2016
-    - 783/QĐ-ĐHQG ngày 21/7/2017
+    - [783/QĐ-ĐHQG](783-QD-DHQG.md) ngày 21/7/2017
     - 09/QĐ-ĐHQG ngày 05/05/2018
 - Tình trạng: Hiệu lực một phần
 
